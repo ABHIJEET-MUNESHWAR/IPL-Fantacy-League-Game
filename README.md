@@ -25,3 +25,5 @@ If not, see
 ---------------------------------------------------------------------------------------------------------------------------
 
 This is website to create IPL team of cricket players. It is developed using JavaScript, jQuery, Parse (https://parse.com/) and Twitter Bootstrap 3.2.0 (http://www.getbootstrap.com/).
+You can visit this website by following below URL:
+http://ipl-game.parseapp.com/
