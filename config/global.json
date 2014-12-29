@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "IPL-Fantasy-League-Game": {
+            "applicationId": "xz2mw7kGMTkG9gt4ZoIc1Ch0fsaGqvfCKFOXpAv4", 
+            "masterKey": "bRLsBUfW6RCavezEdFSrrxr4HKD7hd2ow3bEPwUA"
+        }, 
+        "_default": {
+            "link": "IPL-Fantasy-League-Game"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
